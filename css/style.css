@@ -101,6 +101,9 @@ body {
 /* #region main section-1 */
 .section-one {
   background-color: #2e2f42;
+  margin-right: auto;
+  margin-left: auto;
+  width: 1158px;
   height: 600px;
   padding: 188px 0;
 }
@@ -191,7 +194,10 @@ body {
 .section-three {
   padding: 120px 0;
   display: flex;
+  margin-right: auto;
+  margin-left: auto;
   background: #f4f4fd;
+  width: 1158px;
   height: 732px;
 }
 .section-three-title {
