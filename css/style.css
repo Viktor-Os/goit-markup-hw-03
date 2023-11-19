@@ -56,7 +56,7 @@ body {
 }
 .menu {
   display: flex;
-  
+  gap: 40px;
 }
 
 .logo {
@@ -162,6 +162,7 @@ body {
 .section-list {
    margin-bottom: 8px;
   width: calc((100% - 72px) / 4);
+
 }
 
 .section-block {
@@ -176,7 +177,7 @@ body {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
-  padding-bottom: 8px;
+  margin-bottom: 8px;
   width: 264px;
 }
 .text-title {
